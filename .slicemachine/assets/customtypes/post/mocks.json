@@ -1,0 +1,21 @@
+{
+  "id": "c2633a71-d531-4217-9b2a-147e5fc8400e",
+  "uid": "atque-quaerat-ut",
+  "type": "post",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Incubate value-added content",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Nostrud duis eu labore culpa non Lorem adipisicing.",
+        "spans": []
+      }
+    ]
+  }
+}
